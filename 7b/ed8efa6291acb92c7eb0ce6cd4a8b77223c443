@@ -1,0 +1,17 @@
+codec-http/src/test/java/io/netty/handler/codec/rtsp/RtspMethodsTest.java
+  ai_agent 1-63
+codec-http/src/main/java/io/netty/handler/codec/rtsp/RtspMethods.java
+  ai_agent 23,123-126
+codec-http/src/main/java/io/netty/handler/codec/http/HttpVersion.java
+  ai_agent 22-23,124-127,205-207
+codec-http/src/test/java/io/netty/handler/codec/http/HttpVersionParsingTest.java
+  ai_agent 22-23,114-145
+codec-http/src/main/java/io/netty/handler/codec/rtsp/RtspVersions.java
+  ai_agent 21-22,42-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "7bed8efa6291acb92c7eb0ce6cd4a8b77223c443",
+  "prompts": {}
+}

@@ -1,0 +1,11 @@
+codec-http/src/test/java/io/netty/handler/codec/http/multipart/HttpPostMultipartLocaleDecoderTest.java
+  ai_agent 1-72
+codec-http/src/test/java/io/netty/handler/codec/http/multipart/HttpPostMultipartLocaleEncoderTest.java
+  ai_agent 1-66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "0da3f844c5138d4bd787e94391a2d04646ca80fa",
+  "prompts": {}
+}

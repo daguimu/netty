@@ -1,0 +1,27 @@
+codec-http2/pom.xml
+  ai_agent 76
+common/pom.xml
+  ai_agent 100
+handler/pom.xml
+  ai_agent 108
+transport/pom.xml
+  ai_agent 54
+codec/pom.xml
+  ai_agent 130
+handler-proxy/pom.xml
+  ai_agent 78
+codec-mqtt/pom.xml
+  ai_agent 59
+buffer/pom.xml
+  ai_agent 44
+codec-http/pom.xml
+  ai_agent 69
+resolver/pom.xml
+  ai_agent 44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "adf704a59484e0df09ee21558db3a789a057f786",
+  "prompts": {}
+}

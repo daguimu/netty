@@ -1,0 +1,9 @@
+codec-mqtt/src/test/java/io/netty/handler/codec/mqtt/MqttCodecTest.java
+  ai_agent 329-351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "48519589cba20225f8d653d7990094463513646d",
+  "prompts": {}
+}

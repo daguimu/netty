@@ -1,0 +1,11 @@
+codec-http/src/test/java/io/netty/handler/codec/http/HttpVersionLocaleTest.java
+  ai_agent 1-69
+codec-http/src/test/java/io/netty/handler/codec/rtsp/RtspMethodsTest.java
+  ai_agent 20-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "64c47e02b06719d80419b1ddd62b7b7d116ee400",
+  "prompts": {}
+}

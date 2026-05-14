@@ -1,0 +1,15 @@
+codec-http/src/test/java/io/netty/handler/codec/http/multipart/HttpPostMultiPartRequestDecoderTest.java
+  ai_agent 35,514-543
+codec-http/src/main/java/io/netty/handler/codec/http/multipart/HttpPostRequestEncoder.java
+  ai_agent 48,757-762
+codec-http/src/test/java/io/netty/handler/codec/http/multipart/HttpPostRequestEncoderTest.java
+  ai_agent 40,523-547
+codec-http/src/main/java/io/netty/handler/codec/http/multipart/HttpPostMultipartRequestDecoder.java
+  ai_agent 44,903-907
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "0c9461382712c7949ea16760ce22be481f20102c",
+  "prompts": {}
+}

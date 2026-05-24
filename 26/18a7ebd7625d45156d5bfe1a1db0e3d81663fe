@@ -1,0 +1,9 @@
+transport/src/main/java/io/netty/channel/ChannelInitializer.java
+  ai_agent 131-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "2618a7ebd7625d45156d5bfe1a1db0e3d81663fe",
+  "prompts": {}
+}

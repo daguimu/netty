@@ -1,0 +1,11 @@
+codec-http/src/main/java/io/netty/handler/codec/http/HttpMethod.java
+  ai_agent 128-133,136,139,141
+codec-http/src/test/java/io/netty/handler/codec/http/HttpMethodTest.java
+  ai_agent 49-51,55-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "4bcf7e2c6ad0e391fc72883cdd9f0b4ca219c64d",
+  "prompts": {}
+}

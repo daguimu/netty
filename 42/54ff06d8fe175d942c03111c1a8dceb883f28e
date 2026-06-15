@@ -1,0 +1,9 @@
+codec-compression/src/test/java/io/netty/handler/codec/compression/JdkZlibTest.java
+  ai_agent 173-176,194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "4254ff06d8fe175d942c03111c1a8dceb883f28e",
+  "prompts": {}
+}

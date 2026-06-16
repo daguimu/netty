@@ -1,0 +1,11 @@
+codec-base/src/test/java/io/netty/handler/codec/DateFormatterTest.java
+  ai_agent 41-50
+codec-base/src/main/java/io/netty/handler/codec/DateFormatter.java
+  ai_agent 391-394
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "82546666c3fe77a6407866d588f6cf5e4b5f5275",
+  "prompts": {}
+}

@@ -1,0 +1,11 @@
+codec-http/src/main/java/io/netty/handler/codec/http/multipart/HttpPostMultipartRequestDecoder.java
+  ai_agent 1220-1222,1224-1225
+codec-http/src/test/java/io/netty/handler/codec/http/multipart/HttpPostMultiPartRequestDecoderTest.java
+  ai_agent 46-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "988d8fe260e14945b642320d5c0aa92a5df2c4bc",
+  "prompts": {}
+}

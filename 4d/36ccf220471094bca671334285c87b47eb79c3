@@ -1,0 +1,9 @@
+codec-http2/src/test/java/io/netty/handler/codec/http2/InboundHttp2ToHttpAdapterTest.java
+  ai_agent 243-246,250-251,253-257,260-261
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "4d36ccf220471094bca671334285c87b47eb79c3",
+  "prompts": {}
+}
